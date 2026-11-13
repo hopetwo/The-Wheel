@@ -29,8 +29,9 @@ The Wheel is a digital card game repository. These are the rules for AI agents (
 
 ## Documentation
 
-- Put design docs, specs, and notes in the `doc/` directory.
+- Put design docs, specs, and notes in the `docs/` directory. Start with `docs/README.md`, which indexes every doc.
 - Update the relevant doc when behavior or design changes.
+- Track unresolved design questions in `docs/open-questions.md`. Only mark one resolved when the project owner agrees.
 
 ## About this file
 
