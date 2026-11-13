@@ -8,7 +8,7 @@ These docs are **clear enough to build from, but not final**. Expect them to cha
 
 ## How to read these docs
 
-- Start with the vision doc (coming soon). It explains what the game is trying to be, and every other doc follows from it.
+- Start with [vision.md](vision.md). It explains what the game is trying to be, and every other doc follows from it.
 - Check [open-questions.md](open-questions.md) before you build anything that depends on an unsettled decision.
 - On a conflict, a more specific doc beats a more general one, and an open question means the answer isn't decided yet.
 - Anything marked `PROTOTYPE:` is a temporary choice, made only to unblock early development. Replace it before release.
@@ -17,6 +17,7 @@ These docs are **clear enough to build from, but not final**. Expect them to cha
 
 | Doc | Status | What it covers |
 | --- | --- | --- |
+| [vision.md](vision.md) | Agreed | Pitch, design pillars, target experience, tone, and scope |
 | [open-questions.md](open-questions.md) | Living | Unresolved design questions, in priority order |
 
 ## Conventions
