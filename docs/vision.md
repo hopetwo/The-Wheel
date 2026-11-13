@@ -33,18 +33,12 @@ These are ranked. When two of them conflict, the higher one wins.
 ## Tone and art direction
 
 - **Style:** history told as heroic fantasy, in the vein of Dynasty Warriors, Romance of the Three Kingdoms, and Fire Emblem. Figures should feel mythic, but still like people who really lived.
-- **Villains:** infamous figures are still stylized as larger than life, with dark or sinister symbolism. Dong Zhuo as the gluttonous tyrant is the model.
+- **Villains:** infamous figures are still stylized as larger than life, with dark or sinister symbolism. For example, Dong Zhuo as a gluttonous tyrant, or Vlad the Impaler as a vampire.
 - **Later eras:** the style can shift for modern history toward semi-realistic, fantastical takes on historical hardware and icons, like Kantai Collection or Azur Lane, without breaking from the core look.
-- **Quality bar:** a small indie studio.
 
 ## Content scope
 
-- **Who can be a card:** any historically or culturally significant person, event, tactic, place, or artifact. That includes infamous figures.
-- **Only firm exclusion:** people who are still alive.
-- **Depicting Muhammad:** use symbolic art only, never a human likeness.
-- **Legendary and mythic figures** (Robin Hood, Beowulf, Zeus, Nezha) are welcome in later sets but not the core set.
-- **Core set:** premodern history. A modern expansion covering the World Wars and the Cold War is a likely later step.
-- **Approval:** the project owner reviews all cards and art.
+Anything historically or culturally significant can become a card. That includes infamous figures, apocryphal legends, and mythological icons.
 
 ## Audience and platform
 
