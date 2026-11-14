@@ -18,6 +18,7 @@ These docs are **clear enough to build from, but not final**. Expect them to cha
 | Doc | Status | What it covers |
 | --- | --- | --- |
 | [vision.md](vision.md) | Agreed | Pitch, design pillars, target experience, tone, and scope |
+| [economy.md](economy.md) | Draft | Resources, income, capture points, costs, and fielding limits |
 | [open-questions.md](open-questions.md) | Living | Unresolved design questions, in priority order |
 
 ## Conventions
