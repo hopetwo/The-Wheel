@@ -19,6 +19,7 @@ These docs are **clear enough to build from, but not final**. Expect them to cha
 | --- | --- | --- |
 | [vision.md](vision.md) | Agreed | Pitch, design pillars, target experience, tone, and scope |
 | [economy.md](economy.md) | Draft | Resources, income, capture points, costs, and fielding limits |
+| [turn-structure.md](turn-structure.md) | Draft | Round phases, resolution order, Tactics, zone of control, and actions |
 | [open-questions.md](open-questions.md) | Living | Unresolved design questions, in priority order |
 
 ## Conventions
