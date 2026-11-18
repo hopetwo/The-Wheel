@@ -2,7 +2,7 @@
 
 > "The Wheel" is a placeholder title. See OQ-08 in [open-questions.md](open-questions.md).
 
-This folder holds the design documentation for The Wheel, a two-player digital card game about history. Players build decks of historical leaders, events, tactics, and landmarks, then fight on a hex-grid battlefield to destroy each other's stronghold.
+This folder holds the design documentation for The Wheel, a two-player digital card game about history. Players build decks of historical leaders, equipment, events, and tactics, then fight over a hex-grid battlefield dotted with famous landmarks to destroy each other's stronghold.
 
 These docs are **clear enough to build from, but not final**. Expect them to change as prototyping teaches us things.
 
@@ -19,6 +19,7 @@ These docs are **clear enough to build from, but not final**. Expect them to cha
 | --- | --- | --- |
 | [vision.md](vision.md) | Agreed | Pitch, design pillars, target experience, tone, and scope |
 | [economy.md](economy.md) | Draft | Resources, income, capture points, costs, and fielding limits |
+| [battlefield.md](battlefield.md) | Draft | Board layout, map rotation, special hexes, and landmarks |
 | [turn-structure.md](turn-structure.md) | Draft | Round phases, resolution order, Tactics, zone of control, and actions |
 | [open-questions.md](open-questions.md) | Living | Unresolved design questions, in priority order |
 
