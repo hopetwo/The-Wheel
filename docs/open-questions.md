@@ -46,16 +46,16 @@ Six enemy units around a stronghold block fielding. This is separate from the Su
 ### OQ-14: Surround damage math (P1)
 How does a Surround's combined attack calculate damage, and can adjacent ranged units take part?
 
-### OQ-15: Map fairness and landmark placement (P1)
-Should maps be mirrored so both players start with equal access? A unique landmark can't be mirrored, so does it sit on the center line, or does each map have a matched pair? Do players see the map before the match starts?
-
-### OQ-16: Capturing by moving through a hex (P1)
-Does a unit capture a special hex by passing through it during a Move, or only by stopping on it? Passing through makes cavalry raids strong.
-
 ### OQ-17: Landmark abilities (P2)
 How are active landmark abilities used: queued as an action during Input like Leader abilities, or something else? Which landmarks fit the Eastern high-fantasy starter set?
 
 ## Resolved
+
+### OQ-15: Map fairness and landmark placement (P1)
+Resolved 2026-11-18: Maps don't have to be mirrored, but they must be balanced. The strongest hexes and most landmarks sit in or near the center or at choke points, and players see the map before the match. See [battlefield.md](battlefield.md).
+
+### OQ-16: Capturing by moving through a hex (P1)
+Resolved 2026-11-18: Control is updated at the end of the Resolution phase, so a unit has to be standing on the hex then. See [battlefield.md](battlefield.md).
 
 ### OQ-13: Landmark cards vs. map landmarks (P2)
 Resolved 2026-11-18: Landmarks are no longer a card type. They're unique special hexes on the battlefield. See [battlefield.md](battlefield.md).

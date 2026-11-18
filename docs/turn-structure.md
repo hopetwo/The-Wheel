@@ -48,7 +48,9 @@ Leader or Equipment ability, order Horses or Ordnance.
    **first player**. When one queue is empty, the other resolves the rest of
    its actions in order.
 2. Before each action resolves, a Tactics window opens (see Tactics).
-3. After every action has resolved, each player discards down to 7 cards.
+3. After every action has resolved, control of special hexes is updated (see
+   [battlefield.md](battlefield.md)), and each player discards down to 7
+   cards.
 
 **First player.** In round 1, a coin flip decides. In each later round, the
 first player is whoever would have resolved next when the last round ended.

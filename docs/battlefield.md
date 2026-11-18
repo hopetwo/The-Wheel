@@ -24,16 +24,31 @@ rather than as cards.
   chosen at random.
 - Each map has its own arrangement of terrain and special hexes, so no two
   maps play the same.
+- Players can see the map before the match starts, so they can plan their
+  strategy around it.
+
+### Map design guidelines
+
+- **Balanced, not necessarily mirrored.** Maps don't have to be symmetrical,
+  but both players should have a fair chance.
+- **Fight for the center.** The strongest special hexes, including most
+  landmarks, sit in or near the center or at key choke points. Winning the
+  center and holding it consistently should give a player enough resources
+  to push across the map and besiege the opponent.
+- **Off-center landmarks are allowed.** Some maps may place a unique landmark
+  closer to one side, as long as the map stays balanced overall.
 
 ## Special hexes
 
 Some hexes are **special hexes** that generate resources for whoever controls
 them. They're the capture points described in [economy.md](economy.md).
 
-- **Capturing:** a player captures a special hex when one of their units
-  enters it. *(Whether passing through counts: open, OQ-16.)*
-- **Holding:** the hex stays theirs until an enemy unit captures it. No unit
-  needs to stay on it.
+- **Control:** control of special hexes is updated at the end of the
+  Resolution phase. A player gains control of a special hex if one of their
+  units is standing on it at that moment.
+- **Holding:** control stays with a player until the end of a Resolution
+  phase where an enemy unit is standing on the hex. No unit needs to stay on
+  it.
 
 There are two kinds of special hex:
 
@@ -54,6 +69,4 @@ Equipment, Events, and Tactics.
 ## Open items
 
 - Point types, yields, and how many there are (OQ-10).
-- Map fairness and landmark placement (OQ-15).
-- Capture rules for moving through a hex (OQ-16).
 - How landmark abilities work (OQ-17).

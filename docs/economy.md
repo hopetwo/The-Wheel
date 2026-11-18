@@ -28,8 +28,8 @@ The economy decides what a player can afford each turn. It's designed so that **
 ## Capture points
 
 - The battlefield contains key points, such as villages, mines, and farmland, that grant resources or other bonuses.
-- **Capturing:** move a unit onto the point.
-- **Holding:** the point stays yours until an enemy unit moves onto it. You don't need to keep a unit there, but guarding a contested point stops the opponent from simply walking in.
+- **Capturing:** control is updated at the end of the Resolution phase. A unit standing on a point at that moment captures it for its player (see [battlefield.md](battlefield.md)).
+- **Holding:** the point stays yours until an enemy unit captures it. You don't need to keep a unit there, but guarding a contested point stops the opponent from simply walking in.
 - Generic points and unique landmarks are described in [battlefield.md](battlefield.md). The specific point types, their yields, and placement are still undecided (see OQ-10).
 
 ## Costs
