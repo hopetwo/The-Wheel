@@ -23,7 +23,7 @@ The economy decides what a player can afford each turn. It's designed so that **
 
 - **Base income:** each player gains `1 Gold + 1 Food` during their Income step. `PROTOTYPE:` this is an arbitrary starting value.
 - **No starting stockpile.** On turn 1, a player's only resources are that turn's base income.
-- **Income does not ramp up automatically.** Growth comes from captured points on the battlefield and from cards that support certain playstyles. Landmark hexes are the richest captured points (see [battlefield.md](battlefield.md)).
+- **Income does not ramp up automatically.** Growth comes from captured points on the battlefield and from cards that support certain playstyles. Landmark hexes can add abilities on top of resources (see [battlefield.md](battlefield.md)).
 
 ## Capture points
 
