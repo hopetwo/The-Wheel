@@ -23,14 +23,14 @@ The economy decides what a player can afford each turn. It's designed so that **
 
 - **Base income:** each player gains `1 Gold + 1 Food` during their Income step. `PROTOTYPE:` this is an arbitrary starting value.
 - **No starting stockpile.** On turn 1, a player's only resources are that turn's base income.
-- **Income does not ramp up automatically.** Growth comes from captured points on the battlefield and from cards, mainly Landmarks and certain playstyles.
+- **Income does not ramp up automatically.** Growth comes from captured points on the battlefield and from cards that support certain playstyles. Landmark hexes can add abilities on top of resources (see [battlefield.md](battlefield.md)).
 
 ## Capture points
 
 - The battlefield contains key points, such as villages, mines, and farmland, that grant resources or other bonuses.
 - **Capturing:** move a unit onto the point.
 - **Holding:** the point stays yours until an enemy unit moves onto it. You don't need to keep a unit there, but guarding a contested point stops the opponent from simply walking in.
-- The specific point types, their yields, and how they're placed on the map are still undecided (see OQ-10).
+- Generic points and unique landmarks are described in [battlefield.md](battlefield.md). The specific point types, their yields, and placement are still undecided (see OQ-10).
 
 ## Costs
 

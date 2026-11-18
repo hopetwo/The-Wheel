@@ -4,7 +4,7 @@
 
 ## Pitch
 
-The Wheel is a two-player digital card game about history. Each player leads a stronghold at one end of a hex-grid battlefield. They field armies led by historical figures, call on historical events, tactics, and landmarks, and try to destroy the enemy stronghold.
+The Wheel is a two-player digital card game about history. Each player leads a stronghold at one end of a hex-grid battlefield. They field armies led by historical figures, call on historical events and tactics, fight over famous landmarks on the map, and try to destroy the enemy stronghold.
 
 It combines a traditional trading card game (deckbuilding, hand management, instant-speed responses) with a turn-based tactics game (moving units across terrain, positioning, and combat). The point is to restage history's most dramatic conflicts and play out "what if" matchups between legends from different eras and regions.
 
